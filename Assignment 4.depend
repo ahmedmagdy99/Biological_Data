@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1544819821 source:c:\users\ahmed magdy\desktop\assignment 4\sequence.cpp
+	"Sequence.h"
+	"RNA.h"
+	"DNA.h"
+
+1544812371 c:\users\ahmed magdy\desktop\assignment 4\sequence.h
+	"Sequence.h"
+	<string>
+	<iostream>
+
+1544819748 source:c:\users\ahmed magdy\desktop\assignment 4\dna.cpp
+	"DNA.h"
+	"RNA.h"
+	"Sequence.h"
+	<iostream>
+	<cmath>
+
+1544812184 c:\users\ahmed magdy\desktop\assignment 4\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544817089 source:c:\users\ahmed magdy\desktop\assignment 4\main.cpp
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	<cstring>
+	<iostream>
+
+1544819748 source:c:\users\ahmed magdy\desktop\assignment 4\protein.cpp
+	<iostream>
+	<string>
+	"DNA.h"
+	"Protein.h"
+	"Sequence.h"
+	"RNA.h"
+
+1544793881 c:\users\ahmed magdy\desktop\assignment 4\protein.h
+	"Sequence.h"
+
+1544792042 source:c:\users\ahmed magdy\desktop\assignment 4\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<string>
+	<map>
+	<fstream>
+
+1544792042 c:\users\ahmed magdy\desktop\assignment 4\codonstable.h
+	<string>
+	<iostream>
+
+1544819748 source:c:\users\ahmed magdy\desktop\assignment 4\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"Protein.h"
+	"Sequence.h"
+	<iostream>
+
+1544740466 c:\users\ahmed magdy\desktop\assignment 4\rna.h
+	<iostream>
+	<string>
+	<fstream>
+	"Sequence.h"
+	"CodonsTable.h"
+	"Protein.h"
+
